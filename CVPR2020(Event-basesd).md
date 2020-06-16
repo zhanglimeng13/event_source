@@ -25,10 +25,9 @@
 
 &nbsp;
 # Optical Flow
-### 1.SOFEA_A_Non-Iterative_and_Robust_Optical_Flow_Estimation_Algorithm
-
-&nbsp;
-# Super Resolution(SR)
+### 1.SOFEA: A Non-Iterative and Robust Optical Flow Estimation Algorithm for Dynamic Vision Sensors [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w6/Low_SOFEA_A_Non-Iterative_and_Robust_Optical_Flow_Estimation_Algorithm_for_CVPRW_2020_paper.pdf)
+ 
+### 2.Single Image Optical Flow Estimation With an Event Camera
 
 &nbsp;
 # Others
