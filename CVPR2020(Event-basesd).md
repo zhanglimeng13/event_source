@@ -13,7 +13,7 @@
 
 ### 3.Retina-Like Visual Image Reconstruction via Spiking Neural Model [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Retina-Like_Visual_Image_Reconstruction_via_Spiking_Neural_Model_CVPR_2020_paper.pdf)
 
-### 4.Neuromorphic_Camera_Guided_High_Dynamic_Range_Imaging
+### 4.Neuromorphic Camera Guided High Dynamic Range Imaging [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Han_Neuromorphic_Camera_Guided_High_Dynamic_Range_Imaging_CVPR_2020_paper.pdf)
 
 &nbsp;
 # Image Deblurring
