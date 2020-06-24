@@ -36,3 +36,6 @@
 ### 2.Globally Optimal Contrast Maximisation for Event-Based Motion Estimation
 
 ### 3.Learning Visual Motion Segmentation Using Event Surfaces
+
+# Event Cameras: Opportunities and the Road Ahead (CVPR 2020)
+https://www.youtube.com/watch?v=6Sn9-M7qXLk
